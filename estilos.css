@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+#img1{
+    border: 20px solid black;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+}
+#img1:hover{
+    border-color: red;
+}
+.lb{
+    height: 300px;
+    width: 50%; 
+    background-color: lightblue;
+    float: left;
+}
+.db{
+    height: 300px;
+    width: 50%; 
+    background-color: darkblue;
+    float: right;
+}
